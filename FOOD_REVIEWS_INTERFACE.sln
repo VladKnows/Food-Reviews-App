@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOOD_REVIEWS_INTERFACE", "FOOD_REVIEWS_INTERFACE\FOOD_REVIEWS_INTERFACE.csproj", "{07892880-6ACB-46DF-92A3-D34D9E0C277E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07892880-6ACB-46DF-92A3-D34D9E0C277E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07892880-6ACB-46DF-92A3-D34D9E0C277E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07892880-6ACB-46DF-92A3-D34D9E0C277E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07892880-6ACB-46DF-92A3-D34D9E0C277E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC39CAC-8836-411E-9BCF-E6793916EA62}
+	EndGlobalSection
+EndGlobal
